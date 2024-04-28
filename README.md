@@ -23,5 +23,5 @@
 - [] Automate setup step
 - [] Ask "How to keep track issues"
 - [] Ask "Do you have any code style guide"
-- 
+- [] Ask "Can you provide an overview of the codebase and its components"
 
